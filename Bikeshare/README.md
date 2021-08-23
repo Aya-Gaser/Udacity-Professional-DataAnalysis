@@ -41,5 +41,7 @@ The Chicago and New York City files also have the following two columns:
 -   counts of each user type
 -   counts of each gender (only available for NYC and Chicago)
 -   earliest, most recent, most common year of birth (only available for NYC and Chicago)
-- 
+## Data Files
+
+[Chicago](https://www.divvybikes.com/system-data), [New York City](https://www.citibikenyc.com/system-data), [Washington](https://www.capitalbikeshare.com/system-data)
 
